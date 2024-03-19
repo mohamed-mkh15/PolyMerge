@@ -1,4 +1,4 @@
-PolyMerge: A Novel Technique aimed at Dynamic HD Map Updates Leveraging Polylines
+## PolyMerge: A Novel Technique aimed at Dynamic HD Map Updates Leveraging Polylines
 https://arxiv.org/abs/2310.18416
 
 
